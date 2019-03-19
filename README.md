@@ -1,6 +1,8 @@
 # NET-Deserialize
 总结了十篇.Net反序列化文章，持续更新中...
 
+在线阅读地址： https://ivan1ee.gitbook.io/-netdeserialize/
+
 ![](media/00.png)
 
 微信群超100人，扫码不能再加入，有兴趣的朋友可以加我微信，我来拉入群。
