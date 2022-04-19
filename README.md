@@ -2,7 +2,7 @@
 .Net反序列化文章，持续更新中...
 聚焦于.NET安全的知识星球【dotNet安全矩阵】：https://t.zsxq.com/yFmii2b
 
-![](zsxq.jpg =200x200)
+![](zsxq2.jpg)
 
 
 ## .NET反序列化漏洞系列在线阅读
