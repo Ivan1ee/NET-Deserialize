@@ -1,8 +1,7 @@
 # NET-Deserialize
-.Net反序列化文章，持续更新中...
-聚焦于.NET安全的知识星球【dotNet安全矩阵】：https://t.zsxq.com/yFmii2b
+.Net反序列化文章，2022.04.22更新至下方链接中的第12课反序列化Gadget之详解ObjectDataProvider
 
-![](zsxq2.jpg)
+![](gzh.jpg)
 
 
 ## .NET反序列化漏洞系列在线阅读
@@ -17,6 +16,7 @@
 + [.NET高级代码审计（第九课） BinaryFormatter反序列化漏洞](https://www.anquanke.com/post/id/176519)
 + [.NET高级代码审计（第十课） ObjectStateFormatter反序列化漏洞](https://www.anquanke.com/post/id/176664)
 + [.NET高级代码审计（第十一课） LosFormatter反序列化漏洞](https://www.anquanke.com/post/id/176786)
++ [.NET高级代码审计（第12课）反序列化Gadget之详解ObjectDataProvider](https://mp.weixin.qq.com/s/sHKR0zlW2CsphGAmv3_KVA)
 
 ## .NET一句话木马系列在线阅读
 + [探索基于.NET下实现一句话木马之ashx篇](https://www.anquanke.com/post/id/151960)
