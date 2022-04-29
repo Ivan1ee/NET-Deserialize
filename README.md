@@ -4,7 +4,7 @@
 ![](gzh.jpg)
 
 
-## .NET反序列化漏洞系列在线阅读
+## .NET反序列化系列课程在线阅读
 + [.NET高级代码审计（第1课）XmlSerializer反序列化漏洞](https://www.anquanke.com/post/id/172316)
 + [.NET高级代码审计（第2课） Json.Net反序列化漏洞](https://www.anquanke.com/post/id/172920)
 + [.NET高级代码审计（第3课）Fastjson反序列化漏洞](https://www.anquanke.com/post/id/173151)
@@ -17,6 +17,11 @@
 + [.NET高级代码审计（第10课） ObjectStateFormatter反序列化漏洞](https://www.anquanke.com/post/id/176664)
 + [.NET高级代码审计（第11课） LosFormatter反序列化漏洞](https://www.anquanke.com/post/id/176786)
 + [.NET高级代码审计（第12课）反序列化Gadget之详解ObjectDataProvider](https://mp.weixin.qq.com/s/sHKR0zlW2CsphGAmv3_KVA)
+
+
+## .NET反序列化漏洞案例在线阅读
++ [最新Windows事件查看器.NET反序列化漏洞分析](https://mp.weixin.qq.com/s/A7Z720lavhNSjlNNc3nzng)
+
 
 ## .NET一句话木马系列在线阅读
 + [探索基于.NET下实现一句话木马之ashx篇](https://www.anquanke.com/post/id/151960)
