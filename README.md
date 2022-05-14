@@ -17,6 +17,7 @@
 + [.NET高级代码审计（第10课） ObjectStateFormatter反序列化漏洞](https://www.anquanke.com/post/id/176664)
 + [.NET高级代码审计（第11课） LosFormatter反序列化漏洞](https://www.anquanke.com/post/id/176786)
 + [.NET高级代码审计（第12课）反序列化Gadget之详解ObjectDataProvider](https://mp.weixin.qq.com/s/sHKR0zlW2CsphGAmv3_KVA)
++ [.NET高级代码审计(第13课)反序列化Gadget之ObjectDataProvider完结篇](https://mp.weixin.qq.com/s/IcFnCSN8aCkcWg7HKrLO8g)
 
 
 ## .NET反序列化漏洞案例在线阅读
