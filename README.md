@@ -16,6 +16,7 @@
 + [.NET高级代码审计（第12课）反序列化Gadget之详解ObjectDataProvider](https://mp.weixin.qq.com/s/sHKR0zlW2CsphGAmv3_KVA)
 + [.NET高级代码审计 (第13课) 反序列化Gadget之ObjectDataProvider完结篇](https://mp.weixin.qq.com/s/IcFnCSN8aCkcWg7HKrLO8g)
 + [.NET高级代码审计 (第14课) 反序列化Gadget之XAML](https://mp.weixin.qq.com/s/8fQNU7i6nqB1kHuL_hhUDw)
++ [.NET高级代码审计 (第15课) 反序列化Gadget之ExpandedWrapper](https://mp.weixin.qq.com/s/9PzATv9AS6UbQK4RUhvzQw)
 
 
 ## .NET反序列化漏洞案例在线阅读
