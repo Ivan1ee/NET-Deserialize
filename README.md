@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2023-08-30 
+  - [.NET 序列化生成Ysoserial JavaScriptSerializer链 Payload](https://mp.weixin.qq.com/s/N-8uhhgbvv66kJFBMjRghQ)
 - 2023-07-17 
   - [实现Json.NET序列化生成Ysoserial Payload](https://mp.weixin.qq.com/s/wldhQ6vhYSg-RBjy7v0aMQ)
 - 2022-07-10 
