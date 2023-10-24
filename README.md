@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2023-10-24 
+  - [.NET 反序列化最新攻击链 XamlImageInfo](https://mp.weixin.qq.com/s/E6RRQr7SjAWJSGTnSK_RXw)
 - 2023-10-16 
   - [剖析.NET Remoting远程处理反序列化漏洞](https://mp.weixin.qq.com/s/273MsjjbrGr4Ve3J3uI-Tw)
 - 2023-08-30 
