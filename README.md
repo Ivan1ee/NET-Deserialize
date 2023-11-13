@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2023-11-13 
+  - [.NET 最新gadget GetterSecurityException](https://mp.weixin.qq.com/s/ivfydAeyX20dW3NNu74cpw)
 - 2023-10-30 
   - [.NET GetterSettingsPropertyValue 攻击链](https://mp.weixin.qq.com/s/8Eb1H_PfLjkkunpXyz6Qqw)
 - 2023-10-24 
