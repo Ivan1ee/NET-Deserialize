@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2024-01-23 
+  - [.NET 分布式事务反序列化漏洞](https://mp.weixin.qq.com/s/lx_kB88cPdYY_rfJZY8kwA)
 - 2023-11-13 
   - [.NET 最新gadget GetterSecurityException](https://mp.weixin.qq.com/s/ivfydAeyX20dW3NNu74cpw)
 - 2023-10-30 
