@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2024-04-02 
+  - [.NET MongoDB组件反序列化漏洞分析](https://mp.weixin.qq.com/s/tN0fDLk0CaPUVU65FZMe-Q)
 - 2024-03-05 
   - [.NET 反序列化Xunit1Executor漏洞分析](https://mp.weixin.qq.com/s/xMJSM7x0o6OwlI7ocIC9HQ)
 - 2024-01-23 
